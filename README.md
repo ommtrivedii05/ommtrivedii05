@@ -7,19 +7,17 @@ Currently, I'm delving deep into Verilog HDL, Analog and Digital Electronics, an
 
 ### ⚡ Skills & Interests
 - **Languages:** C, C++, Embedded C, Verilog HDL
-- **Platforms:** Arduino, ESP32, various microcontrollers
+- **Platforms:** Arduino, ESP32, various other microcontrollers
 - **Domains:** Analog Electronics, Digital Electronics
 
 ---
 
 ### 📚 Hobbies & Personal Interests
-- Watching documentary videos  
+- Watching documentaries.  
 - Stalking other techies 😂
+
 
 ---
 
 > _"Sometimes, when things are falling apart, they may actually be falling into place."_
 
----
-
-*Projects section coming soon! Stay tuned...*
